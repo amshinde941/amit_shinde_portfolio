@@ -1,0 +1,12 @@
+.social-media-div {
+    font-size: 2em;
+    display: inline-block;
+  }
+.social-media-div a:hover{
+    background-color: #A6E1FA;
+}
+  
+.title{
+  position:relative;
+  top:1em; 
+}

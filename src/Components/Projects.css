@@ -1,0 +1,21 @@
+.heading{
+    text-align: center;
+}
+
+.duration{
+    background-color: #0dcaf0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+@media (max-width: 768px) {
+    
+    .grid-container{
+        display: block;
+    }
+}
+

@@ -1,0 +1,137 @@
+.heading{
+    text-align: center;
+}
+
+.education-card{
+    padding-left: 6em;
+    padding-right: 6em;
+    padding-bottom: 2em;
+}
+.edu-card {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius:10px;
+    display: flex;
+    flex-direction:row;
+}
+
+.edu-card-logo-div {
+    margin: 10px;
+}
+
+.edu-card-logo-div img{
+    width:8em;
+    height: 8em;
+}
+
+.edu-card-body-div {
+    width: 100%;
+}
+
+.edu-card-header-div {
+    display: flex;
+    flex-direction: row;
+}
+
+.edu-card-logo {
+    width: 70px;
+}
+
+.edu-card-title {
+    font-family: "Google Sans Regular";
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    margin-right: 7px;
+    text-align: left;
+}
+
+.edu-card-duration {
+    font-family: "Google Sans Regular";
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: right;
+    color: #868e96;
+}
+
+.edu-card-heading-left {
+    float: left;
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+.edu-card-heading-right {
+    float: right;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.edu-card-description {
+    margin-top: 5px;
+    margin-left: 10px;
+    text-align: justify;
+    margin-right: 20px;
+    font-family: "Google Sans Regular";
+}
+.certificates{
+    display: inline-block;
+}
+.additionals{
+    padding-bottom: 1em;
+}
+.additionals h6{
+    padding-top: 1em;
+}
+
+@media (max-width: 768px) {
+    .sub-heading{
+        font-size: 0.6em;
+    }
+    .education-card{
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-top: 1em;
+    }
+    .edu-card{
+        margin-bottom:10px;
+        flex-direction:column;
+        text-align: center;
+    }
+
+    .edu-card-logo {
+        width: 100px;
+    }
+    .edu-card-heading-left {
+        float: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .edu-card-heading-right {
+        float: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .edu-card-title {
+        text-align: center;
+    }
+
+    .edu-card-duration {
+        margin-top: 2px;
+        text-align: center;
+    }
+
+    .edu-card-header-div {
+        flex-direction: column;
+    }
+
+    .edu-card-description {
+        margin-left: 14px;
+        margin-right: 14px;
+        text-align: center;
+    }
+}
+
