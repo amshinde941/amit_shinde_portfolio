@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/amit-shinde/static/css/main.d71d3e93.chunk.css",
+    "main.js": "/amit-shinde/static/js/main.7196677e.chunk.js",
+    "main.js.map": "/amit-shinde/static/js/main.7196677e.chunk.js.map",
+    "runtime-main.js": "/amit-shinde/static/js/runtime-main.34a918ca.js",
+    "runtime-main.js.map": "/amit-shinde/static/js/runtime-main.34a918ca.js.map",
+    "static/css/2.4be38407.chunk.css": "/amit-shinde/static/css/2.4be38407.chunk.css",
+    "static/js/2.2bba42e9.chunk.js": "/amit-shinde/static/js/2.2bba42e9.chunk.js",
+    "static/js/2.2bba42e9.chunk.js.map": "/amit-shinde/static/js/2.2bba42e9.chunk.js.map",
+    "index.html": "/amit-shinde/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/amit-shinde/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.d71d3e93.chunk.css.map": "/amit-shinde/static/css/main.d71d3e93.chunk.css.map",
+    "static/js/2.2bba42e9.chunk.js.LICENSE.txt": "/amit-shinde/static/js/2.2bba42e9.chunk.js.LICENSE.txt",
+    "static/media/Navigation.css": "/amit-shinde/static/media/Agustina.320d237b.otf",
+    "static/media/Pict_logo.84c00322.png": "/amit-shinde/static/media/Pict_logo.84c00322.png",
+    "static/media/Profile.f12bde19.jpg": "/amit-shinde/static/media/Profile.f12bde19.jpg",
+    "static/media/edu.6647636e.svg": "/amit-shinde/static/media/edu.6647636e.svg",
+    "static/media/home.90eed953.svg": "/amit-shinde/static/media/home.90eed953.svg",
+    "static/media/pngegg.f4b45d2a.png": "/amit-shinde/static/media/pngegg.f4b45d2a.png",
+    "static/media/project.75763622.svg": "/amit-shinde/static/media/project.75763622.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34a918ca.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.2bba42e9.chunk.js",
+    "static/css/main.d71d3e93.chunk.css",
+    "static/js/main.7196677e.chunk.js"
+  ]
+}
